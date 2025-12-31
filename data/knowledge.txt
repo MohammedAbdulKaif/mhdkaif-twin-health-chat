@@ -1,0 +1,69 @@
+[OVERVIEW]
+Twin Health is a precision health program powered by a Whole Body Digital Twin™.
+It focuses on identifying and addressing the root cause of metabolic health issues using personalized data and continuous insights.
+Twin Health helps individuals improve their overall well-being through guided lifestyle changes supported by technology and coaching.
+
+[WHOLE_BODY_DIGITAL_TWIN]
+The Whole Body Digital Twin is a virtual model of an individual’s body created using biological, lifestyle, and sensor data.
+It helps understand how the body responds to food, physical activity, sleep, and daily habits.
+The digital twin continuously updates as the body adapts and improves over time.
+
+[ICAPP]
+ICAPP is Twin Health’s internal application platform.
+It is used for coaching management, care coordination, user engagement, and operational workflows.
+ICAPP enables smooth communication between users, coaches, and the care team through a centralized system.
+
+[COACHING]
+Twin Health provides personalized coaching to support sustainable lifestyle changes.
+Coaching focuses on daily habits such as nutrition, physical activity, sleep routines, and consistency.
+Coaches use insights from the Whole Body Digital Twin to guide users throughout their journey.
+
+[NUTRITION_JOURNEY]
+The nutrition journey in Twin Health is personalized based on how each individual’s body responds to food.
+Users can log daily food intake through the Twin Health app.
+Food guidance adapts over time as the digital twin learns from the user’s responses.
+
+[CARE_TEAM]
+Twin Health users have access to a dedicated care team through the app.
+The care team supports users by monitoring progress and guiding engagement with the program.
+All communication with the care team happens through in-app messaging.
+
+[DASHBOARD]
+The Twin Health dashboard provides a personalized view for each user.
+It displays progress, insights, activity data, and engagement information.
+Dashboards are unique for every user based on their individual health journey.
+
+[PLANS]
+Twin Health offers multiple subscription plans to suit different user needs.
+Available plans include quarterly, half-yearly, and annual subscriptions.
+Each plan provides access to the Twin Health app, personalized coaching, and ongoing program support.
+
+[ONBOARDING]
+The onboarding process in Twin Health involves collecting initial user information and lifestyle details.
+This data helps create a personalized starting point for the program.
+Onboarding plays a key role in building the initial Whole Body Digital Twin.
+
+[DISCHARGE]
+After the subscription period ends, users may have limited access for a short duration.
+Once this period expires, the account status is changed to inactive.
+This process helps manage program completion and access control.
+
+[APP_FEATURES]
+The Twin Health app allows users to track daily activities, log food intake, and view personalized insights.
+Users can communicate with coaches and the care team directly through the app.
+The app acts as the primary interface for engaging with the Twin Health program.
+
+[DIABETES_REVERSAL_APPROACH]
+Twin Health India focuses on addressing the root cause of metabolic conditions rather than only managing symptoms.
+Lifestyle-related conditions such as Type 2 diabetes can develop due to irregular eating habits, lack of physical activity, poor sleep patterns, and stress.
+
+Many chronic health conditions such as Type 2 diabetes, obesity, PCOD, and hypertension are linked to a disrupted or degraded metabolism.
+When daily habits related to nutrition, sleep, activity, and stress are not balanced, the body’s natural metabolic pathways begin to weaken.
+
+Twin Health works on restoring metabolic balance using the Whole Body Digital Twin™.
+The digital twin analyzes individual data related to food timing, sleep quality, activity levels, and stress exposure.
+Based on these insights, personalized daily recommendations support the body’s natural ability to improve metabolic health.
+
+Twin Health follows a precision healthcare approach.
+Instead of using one-size-fits-all diet charts, the program adapts to how each individual’s body responds to food, movement, and rest.
+As the digital twin continues to learn, recommendations evolve to support long-term metabolic improvement.
